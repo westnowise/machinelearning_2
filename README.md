@@ -30,6 +30,9 @@
 
 ![Untitled (3)](https://github.com/westnowise/machinelearning_2/assets/156265958/fd6f9a93-1f50-4f1c-b1df-2e5d81ea7a3f)
 
+![Untitled (4)](https://github.com/westnowise/machinelearning_2/assets/156265958/3ab7374d-4f33-474f-a71b-6ccb318d819f)
+
+![Untitled (5)](https://github.com/westnowise/machinelearning_2/assets/156265958/41fbeec9-b47a-46fc-a978-c95b5f304e2d)
 
 
 
