@@ -28,6 +28,8 @@
 
 # 결과
 
+![Untitled (3)](https://github.com/westnowise/machinelearning_2/assets/156265958/fd6f9a93-1f50-4f1c-b1df-2e5d81ea7a3f)
+
 
 
 
