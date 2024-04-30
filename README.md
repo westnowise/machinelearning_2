@@ -19,9 +19,14 @@
 학습 환경 조성 도움
 3. 통학 시간이 긴 학생들을 위해 통학 중에도 공부할 수 있는 프로그램 개설
 
-**기대가치**
+**기대가치** : 
 자녀의 성적에 미치는 부모의 영향력을 파악하여 이를 통한 서비스를 제공해 매출 증대 기대
 
+![Untitled (1)](https://github.com/westnowise/machinelearning_2/assets/156265958/a6007b87-3595-4bf4-add8-d67d2f0aedac)
+
+![Untitled (2)](https://github.com/westnowise/machinelearning_2/assets/156265958/a77056ac-d928-4c30-9503-5daa5cbe4f02)
+
+# 결과
 
 
 
