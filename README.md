@@ -1,5 +1,5 @@
 # 가정환경에 따른 자녀 성적 예측
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c720d77c-cd0c-4a61-a88a-f0f610e5faf3/4acee18b-76b0-4cae-bf2f-50fd428c8c26/Untitled.png)
+![Untitled](https://github.com/westnowise/machinelearning_2/assets/156265958/3f14d24c-6ef0-4380-ade7-67fe6a243c01)
 
 - **작업기간: 2024.02.13 ~ 2024.02.14**
 - **구성원: 조서연, 박수아, 송희도, 황원진, 이수현**
@@ -22,9 +22,7 @@
 **기대가치**
 자녀의 성적에 미치는 부모의 영향력을 파악하여 이를 통한 서비스를 제공해 매출 증대 기대
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c720d77c-cd0c-4a61-a88a-f0f610e5faf3/81ba8e10-47b7-4088-8532-bfe00be384b5/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c720d77c-cd0c-4a61-a88a-f0f610e5faf3/3e0a5266-ed06-4891-9767-52cbe8803363/Untitled.png)
 
 
 
